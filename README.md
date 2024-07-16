@@ -1,7 +1,7 @@
 # E-Commerce-Website
 
 ## Table of Contents
-1.[About the website](#about-the-website)
+1. [About the website](#about-the-website)
 2. [Sign Up Page](#sign-up-page)
 3. [Home Page](#home-page)
 5. [Cart Page](#cart-page)
