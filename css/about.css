@@ -1,0 +1,29 @@
+.about-title{
+text-align: justify;
+color: black;
+font-size: 54px;
+font-family: Inter;
+font-weight: 600; 
+line-height: 64px; 
+letter-spacing: 3.24px; 
+word-wrap: break-word
+
+}
+.about-container{
+    max-width: 800px;
+    padding: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    align-items: start; 
+}
+.grid-container img{
+    margin-top: 60px;
+    width: 120%;
+}
