@@ -22,7 +22,7 @@ The sign-up page allows new users to create an account by providing their person
 
 ## Home Page
 ![Home Page](img/home.jpg)
-![Home Page](img/home2.jpg)
+![Home Page](img/home1.jpg)
 ![Home Page](img/home3.jpg)
 ![Home Page](img/home4.jpg)
 
