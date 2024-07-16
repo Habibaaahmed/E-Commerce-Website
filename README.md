@@ -1,16 +1,16 @@
 # E-Commerce-Website
 
 ## Table of Contents
-1. [Sign Up Page](#sign-up-page)
-2. [About the App](#about-the-app)
+1.[About the website](#about-the-website)
+2. [Sign Up Page](#sign-up-page)
 3. [Home Page](#home-page)
-4. [Cart Page](#cart-page)
-5. [View Product Page](#view-product-page)
-6. [Shop Page](#shop-page)
-7. [About Page](#about-page)
+5. [Cart Page](#cart-page)
+6. [View Product Page](#view-product-page)
+7. [Shop Page](#shop-page)
+8. [About Page](#about-page)
 
 
-## About the App
+## About the website
 ![Marketplace](img/market.jpg)
 
 This e-commerce website is a marketplace developed using HTML, CSS, and JavaScript. It includes various pages for browsing products, viewing product details, managing a shopping cart, and more.
